@@ -1,0 +1,5 @@
+ampcus\runner\TestRunner.class
+ampcus\tests\BaseUITest.class
+ampcus\pages\AmpucsContactPage.class
+ampcus\pages\POMFactory.class
+ampcus\tests\StepDef.class
